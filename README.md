@@ -1,1 +1,1 @@
-# my-first-repoThis is the README.md fileWe can make liks like [this](https://github.com/lcqsigi/my-first-repo).And lists too:    + Item 1    + Item 2    + Item 3
+# my-first-repoThis is the README.md fileWe can make liks like [this](https://github.com/lcqsigi/my-first-repo).And lists too:    + Item 1    + Item 2    + Item 3```shpython game.py``````pyprint("hello")```
