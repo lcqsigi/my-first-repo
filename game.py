@@ -8,6 +8,10 @@ user_input=input("select rock, paper, or scissors: ")
 
 valid_options = ["rock","paper","scissors"]
 
+if user_input not in valid_options:
+    print("invalid option try again")
+    exit() #quit()
+
 #print("you chose: ", user_input)
 
 print(f"you chose: '{user_input}' ")
